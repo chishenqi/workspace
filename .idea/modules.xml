@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignModule/DesignModule.iml" filepath="$PROJECT_DIR$/DesignModule/DesignModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RAP/RAP.iml" filepath="$PROJECT_DIR$/RAP/RAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread-pool/Thread-pool.iml" filepath="$PROJECT_DIR$/Thread-pool/Thread-pool.iml" />
+      <module fileurl="file://D:\workspace\rap_server\webapps\examples\WEB-INF\WEB-INF.iml" filepath="D:\workspace\rap_server\webapps\examples\WEB-INF\WEB-INF.iml" />
+      <module fileurl="file://D:\workspace\ac\ac.iml" filepath="D:\workspace\ac\ac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-cluster/activemq-cluster/activemq-cluster.iml" filepath="$PROJECT_DIR$/activemq-cluster/activemq-cluster/activemq-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-consumer/activemq-consumer.iml" filepath="$PROJECT_DIR$/activemq-consumer/activemq-consumer.iml" />
+      <module fileurl="file://D:\workspace\cac\cac.iml" filepath="D:\workspace\cac\cac.iml" />
+      <module fileurl="file://D:\workspace\rap_server\webapps\examples\WEB-INF\jsp\jsp.iml" filepath="D:\workspace\rap_server\webapps\examples\WEB-INF\jsp\jsp.iml" />
+      <module fileurl="file://D:\workspace\rap_server\work\Catalina\localhost\localhost.iml" filepath="D:\workspace\rap_server\work\Catalina\localhost\localhost.iml" />
+      <module fileurl="file://D:\workspace\rap_server\webapps\examples\jsp\plugin\plugin.iml" filepath="D:\workspace\rap_server\webapps\examples\jsp\plugin\plugin.iml" />
+      <module fileurl="file://D:\workspace\rap_server\webapps\docs\appdev\sample\sample.iml" filepath="D:\workspace\rap_server\webapps\docs\appdev\sample\sample.iml" />
+    </modules>
+  </component>
+</project>
